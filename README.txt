@@ -1,0 +1,1 @@
+For issues with the application, please contact: fitzl.csaba.dev@gmail.com
